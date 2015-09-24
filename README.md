@@ -1,2 +1,2 @@
-# openshift3-aspnet-sample
-A sample ASP.NET v5 Application for Openshift Origin 3
+# Openshift 3 ASP.Net v5 Sample
+A Sample ASP.NET v5 Application for Openshift Origin 3
