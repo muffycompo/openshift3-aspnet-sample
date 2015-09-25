@@ -1,4 +1,5 @@
-FROM microsoft/aspnet
+#FROM microsoft/aspnet
+FROM muffycompo/aspnet5
 
 COPY project.json /app/
 WORKDIR /app
