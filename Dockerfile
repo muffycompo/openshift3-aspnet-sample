@@ -1,4 +1,4 @@
-FROM muffycompo/aspnet
+FROM muffycompo/aspnet5-sti
 
 MAINTAINER Mfawa Alfred Onen <muffycompoqm@gmail.com>
 
